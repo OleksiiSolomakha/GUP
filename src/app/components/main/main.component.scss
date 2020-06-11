@@ -1,0 +1,24 @@
+.container {
+  width: 60%;
+  margin: 0 auto;
+  background: #f7f7f7;
+  border-radius: 10px;
+}
+
+mat-tree {
+  background: #f7f7f7;
+  margin-top: 2%;
+  margin-left: 40%;
+  border-radius: 10px;
+
+  ul, li {
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style-type: none;
+  }
+
+  .example-tree-invisible {
+    display: none;
+  }
+
+}
